@@ -11,7 +11,7 @@ Funny Line
 import json
 
 data = {
-    'key': 'value'
+    'key': 'brand new value from script'
 }
 
 print(json.dumps(data, indent=3))
